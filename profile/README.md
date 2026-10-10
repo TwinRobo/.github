@@ -8,4 +8,4 @@
 - MuJoCo, LIBERO, RoboCasa, Isaac Sim.
 - Open camera catalog: add yours.
 
-[Docs](https://twinrobo.github.io/TwinRobo-Core/) · [Demo](https://twinrobo.github.io/TwinRobo-Preview/)
+[Docs](https://twinrobo.github.io/) · [Demo](https://twinrobo.github.io/TwinRobo-Preview/)
